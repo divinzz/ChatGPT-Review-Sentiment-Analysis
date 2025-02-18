@@ -65,3 +65,7 @@ The project involves:
 
 The ChatGPT Sentiment Analysis project demonstrates how machine learning and natural language processing can be effectively used to understand and categorize user sentiment. By automating sentiment analysis, businesses can save time, gain valuable insights, and enhance their products or services accordingly. This project provides a framework that can be extended to other domains where text data is abundant and feedback analysis is crucial.
 
+![Image](https://github.com/user-attachments/assets/175fa123-81e6-494d-91ea-adf3999f1241)
+![Image](https://github.com/user-attachments/assets/d066f577-d72e-461b-b1f1-47978fbf7467)
+![Image](https://github.com/user-attachments/assets/db17da3c-5ebd-41e8-ad33-14051f4b0496)
+
