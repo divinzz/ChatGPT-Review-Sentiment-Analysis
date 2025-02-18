@@ -1,5 +1,17 @@
 # ChatGPT Review Sentiment Analysis
 
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: DIVIN DINESH
+
+*INTERN ID*: CT6WHGK
+
+*DOMINE*: DATA SCIENCE
+
+*DURATION*: 6 WEEKS
+
+*MENTOR*: NEELA SANTOSH
+
 ## About the Project
 
 ### Introduction
